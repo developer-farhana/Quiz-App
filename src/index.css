@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    progress::-webkit-progress-bar {
+        @apply bg-gray-200 rounded-md;
+    }
+
+    progress::-webkit-progress-value {
+        @apply bg-rose-500 rounded-md;
+    }
+}
