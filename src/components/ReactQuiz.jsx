@@ -42,7 +42,7 @@ export default function ReactQuiz() {
       />
 
       <div className="flex flex-col items-center justify-center text-center space-y-3">
-        <h1 className="text-3xl sm:text-5xl font-bold text-white" >React Quiz App</h1>
+        <h1 className="text-3xl sm:text-5xl font-bold text-white" > Web-Batch-4 Quiz App</h1>
         <p className="text-white text-xl">Welcome to The React Quiz App!</p>
       </div>
 
